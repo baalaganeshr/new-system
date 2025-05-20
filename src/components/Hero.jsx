@@ -7,5 +7,5 @@ export default function Hero() {
         <button className="cta-button">Get Started</button>
       </div>
     </section>
-  );
+  )
 }
